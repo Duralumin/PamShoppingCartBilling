@@ -2,7 +2,7 @@ package it.pam.shoppingcart;
 
 import org.joda.money.Money;
 
-public interface BillItem {
+public interface Product {
 
 	int getQuantity();
 
